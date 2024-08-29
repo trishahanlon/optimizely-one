@@ -2467,6 +2467,22 @@ __metadata:
   languageName: node
   linkType: hard
 
+"@remkoj/optimizely-one-nextjs@file:packages/dist/@remkoj-optimizely-one-nextjs-dev.tgz::locator=cms-visual-builder-vercel-demo%40workspace%3A.":
+  version: 2.0.0-pre6
+  resolution: "@remkoj/optimizely-one-nextjs@file:packages/dist/@remkoj-optimizely-one-nextjs-dev.tgz#packages/dist/@remkoj-optimizely-one-nextjs-dev.tgz::hash=7f87bb&locator=cms-visual-builder-vercel-demo%40workspace%3A."
+  peerDependencies:
+    "@headlessui/react": "*"
+    "@heroicons/react": "*"
+    "@remkoj/optimizely-graph-client": ^2.0.0-pre6
+    next: "*"
+    react: "*"
+    react-dom: "*"
+    swr: "*"
+    uuid: "*"
+  checksum: 10/d57a1576bf45e10800233e104292308c41439c700409fd238ece2d3a2d54e7a225715c8953c9b75ccf626fc079eae686120da7f780ca92d354edb573fff3c14f
+  languageName: node
+  linkType: hard
+
 "@repeaterjs/repeater@npm:^3.0.4":
   version: 3.0.6
   resolution: "@repeaterjs/repeater@npm:3.0.6"
@@ -4274,6 +4290,7 @@ __metadata:
     "@remkoj/optimizely-graph-cli": "npm:^2.0.0-pre6"
     "@remkoj/optimizely-graph-client": "npm:^2.0.0-pre6"
     "@remkoj/optimizely-graph-functions": "npm:^2.0.0-pre6"
+    "@remkoj/optimizely-one-nextjs": "npm:^2.0.4"
     "@tailwindcss/container-queries": "npm:^0.1.1"
     "@tailwindcss/typography": "npm:^0.5.13"
     "@types/eslint": "npm:^8.56.10"
